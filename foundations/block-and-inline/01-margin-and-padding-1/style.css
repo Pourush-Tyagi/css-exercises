@@ -25,4 +25,10 @@ body {
   /* CHANGE ME */
   padding: 32px;
   margin-right: 0px;
+  margin-left: auto;
+}
+
+.container {
+  border: 2px dashed red;
+  width: 800px;
 }
